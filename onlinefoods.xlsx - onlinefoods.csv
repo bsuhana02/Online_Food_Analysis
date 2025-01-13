@@ -1,0 +1,389 @@
+Age,Gender,Marital Status,Occupation,Educational Qualifications,Family size,Pin code,Feedback
+20,Female,Single,Student,Post Graduate,4,560001,Positive
+24,Female,Single,Student,Graduate,3,560009,Positive
+22,Male,Single,Student,Post Graduate,3,560017,Negative 
+22,Female,Single,Student,Graduate,6,560019,Positive
+22,Male,Single,Student,Post Graduate,4,560010,Positive
+27,Female,Married,Employee,Post Graduate,2,560103,Positive
+22,Male,Single,Student,Graduate,3,560009,Positive
+24,Female,Single,Student,Post Graduate,3,560042,Positive
+23,Female,Single,Student,Post Graduate,2,560001,Positive
+23,Female,Single,Student,Post Graduate,4,560048,Positive
+22,Female,Single,Student,Post Graduate,5,560010,Positive
+23,Male,Single,Student,Post Graduate,2,560009,Negative 
+23,Male,Single,Student,Post Graduate,5,560078,Positive
+21,Male,Single,Student,Graduate,4,560009,Positive
+23,Female,Single,Employee,Post Graduate,5,560004,Positive
+24,Female,Single,Student,Post Graduate,6,560068,Positive
+28,Female,Single,Employee,Post Graduate,2,560038,Positive
+23,Female,Single,Student,Graduate,3,560008,Negative 
+25,Male,Single,Student,Graduate,4,560078,Negative 
+21,Female,Single,Student,Post Graduate,1,560038,Positive
+24,Male,Single,Student,Post Graduate,3,560009,Positive
+22,Male,Single,Student,Post Graduate,4,560032,Positive
+22,Female,Single,Student,Graduate,4,560033,Positive
+23,Male,Single,Student,Graduate,4,560021,Positive
+21,Male,Single,Student,Post Graduate,3,560085,Positive
+25,Male,Single,Student,Post Graduate,3,560008,Positive
+22,Female,Single,Student,Post Graduate,5,560050,Positive
+22,Male,Single,Student,Post Graduate,3,560098,Positive
+23,Female,Single,Employee,Graduate,3,560048,Positive
+22,Male,Single,Student,Post Graduate,4,560003,Positive
+22,Female,Single,Employee,Graduate,5,560066,Positive
+22,Male,Single,Student,Post Graduate,4,560038,Positive
+25,Male,Married,Employee,Post Graduate,4,560034,Positive
+22,Female,Single,Student,Post Graduate,5,560010,Positive
+22,Female,Single,Student,Post Graduate,2,560102,Positive
+25,Male,Single,Student,Post Graduate,3,560085,Positive
+25,Male,Single,Student,Post Graduate,5,560009,Positive
+32,Female,Prefer not to say,Student,Graduate,5,560008,Negative 
+23,Female,Single,Student,Post Graduate,3,560004,Positive
+23,Female,Single,Student,Post Graduate,4,560078,Positive
+30,Male,Married,Employee,Uneducated,4,560025,Negative 
+23,Male,Single,Student,Graduate,3,560026,Positive
+23,Male,Single,Student,Post Graduate,4,560021,Positive
+22,Female,Single,Student,Post Graduate,5,560010,Positive
+22,Male,Single,Student,Graduate,5,560010,Positive
+27,Female,Married,Employee,Post Graduate,2,560034,Positive
+24,Female,Single,Student,Post Graduate,3,560009,Positive
+23,Male,Single,Student,Post Graduate,2,560009,Positive
+23,Female,Single,Student,Graduate,3,560008,Negative 
+22,Female,Single,Student,Post Graduate,5,560010,Positive
+23,Female,Single,Student,Graduate,5,560043,Positive
+23,Female,Single,Student,Post Graduate,2,560009,Positive
+24,Male,Single,Student,Post Graduate,3,560009,Positive
+25,Male,Single,Student,Post Graduate,2,560002,Positive
+22,Male,Single,Student,Post Graduate,3,560085,Positive
+28,Female,Married,Student,Graduate,2,560086,Positive
+22,Female,Single,Student,Post Graduate,1,560076,Positive
+24,Female,Single,Student,Graduate,3,560009,Positive
+31,Male,Married,Employee,Post Graduate,5,560102,Positive
+25,Male,Single,Student,Post Graduate,4,560086,Positive
+23,Male,Single,Student,Post Graduate,5,560078,Positive
+22,Male,Single,Student,Post Graduate,3,560076,Positive
+23,Male,Single,Student,Post Graduate,1,560096,Positive
+23,Male,Single,Student,Graduate,4,560029,Positive
+23,Female,Single,Student,Post Graduate,2,560003,Positive
+25,Male,Single,Student,Post Graduate,6,560046,Positive
+24,Male,Single,Employee,Graduate,4,560030,Positive
+23,Female,Single,Student,Post Graduate,4,560024,Positive
+23,Female,Single,Student,Post Graduate,4,560024,Positive
+24,Female,Married,Employee,Post Graduate,4,560004,Positive
+22,Male,Single,Student,Graduate,4,560020,Positive
+24,Female,Single,Student,Post Graduate,3,560028,Positive
+25,Female,Single,Student,Post Graduate,3,560001,Positive
+23,Male,Single,Student,Post Graduate,2,560076,Positive
+26,Male,Single,Student,Post Graduate,4,560003,Positive
+24,Female,Single,Student,Post Graduate,3,560064,Positive
+26,Male,Single,Student,Post Graduate,4,560036,Positive
+21,Male,Single,Student,Graduate,4,560009,Positive
+22,Female,Single,Student,Post Graduate,3,560009,Positive
+24,Male,Single,Student,Post Graduate,5,560011,Positive
+24,Male,Single,Student,Post Graduate,4,560061,Positive
+23,Female,Single,Student,Post Graduate,3,560009,Positive
+23,Male,Single,Student,Post Graduate,3,560029,Positive
+22,Male,Single,Student,Post Graduate,3,560004,Positive
+23,Male,Single,Student,Post Graduate,3,560009,Positive
+24,Female,Single,Student,Post Graduate,4,560038,Positive
+24,Male,Single,Student,Post Graduate,5,560011,Positive
+25,Male,Single,Student,Graduate,1,560009,Positive
+25,Male,Single,Student,Post Graduate,5,560009,Positive
+28,Male,Married,Employee,Graduate,2,560022,Negative 
+27,Female,Prefer not to say,Employee,Post Graduate,5,560022,Positive
+26,Male,Single,Employee,Post Graduate,1,560066,Positive
+22,Male,Single,Student,Post Graduate,2,560009,Positive
+24,Female,Single,Student,Post Graduate,3,560009,Positive
+23,Male,Single,Student,Post Graduate,1,560027,Positive
+25,Male,Single,Student,Graduate,1,560009,Positive
+23,Female,Single,Student,Graduate,5,560043,Positive
+23,Female,Single,Student,Graduate,5,560043,Positive
+26,Male,Married,Employee,Graduate,5,560007,Positive
+32,Female,Married,Student,Uneducated,3,560012,Positive
+24,Female,Single,Student,Post Graduate,3,560028,Positive
+23,Male,Single,Student,Post Graduate,2,560030,Positive
+22,Female,Single,Employee,Graduate,3,560066,Positive
+24,Female,Single,Student,Post Graduate,3,560004,Positive
+26,Male,Single,Employee,Graduate,2,560034,Negative 
+28,Male,Married,Employee,Graduate,3,560066,Positive
+26,Male,Single,Employee,Post Graduate,2,560066,Positive
+25,Male,Single,Student,Post Graduate,1,560029,Positive
+25,Male,Single,Employee,Graduate,2,560066,Positive
+18,Male,Single,Student,Graduate,5,560002,Positive
+21,Male,Single,Student,Post Graduate,4,560009,Positive
+25,Male,Single,Student,Post Graduate,1,560029,Positive
+25,Male,Single,Student,Post Graduate,2,560021,Positive
+23,Female,Single,Student,Graduate,5,560043,Positive
+23,Male,Single,Employee,Post Graduate,2,560010,Positive
+25,Female,Married,Employee,Graduate,4,560017,Negative 
+31,Female,Married,Student,Graduate,5,560022,Positive
+24,Male,Prefer not to say,Employee,Post Graduate,2,560006,Positive
+32,Female,Married,Employee,Graduate,5,560034,Positive
+25,Male,Single,Employee,Graduate,3,560001,Positive
+27,Female,Married,Employee,Graduate,5,560001,Positive
+26,Male,Single,Employee,Graduate,3,560001,Positive
+26,Female,Single,Employee,Post Graduate,3,560002,Positive
+32,Male,Married,Employee,Post Graduate,5,560002,Negative 
+24,Male,Married,Employee,Post Graduate,6,560002,Negative 
+27,Female,Married,Employee,Graduate,3,560002,Positive
+23,Male,Single,Student,Post Graduate,3,560009,Positive
+25,Male,Single,Student,Post Graduate,4,560009,Positive
+23,Male,Single,Student,Post Graduate,3,560009,Positive
+23,Female,Single,Student,Post Graduate,4,560024,Positive
+28,Male,Married,Employee,Post Graduate,3,560003,Positive
+32,Female,Married,Employee,Graduate,1,560003,Positive
+23,Male,Single,Student,Post Graduate,2,560003,Positive
+19,Male,Single,Student,Graduate,2,560003,Negative 
+19,Female,Single,Student,Graduate,4,560047,Positive
+27,Female,Married,Employee,Post Graduate,2,560066,Positive
+25,Male,Single,Employee,Graduate,3,560005,Positive
+33,Male,Married,Employee,Post Graduate,5,560005,Negative 
+26,Female,Single,Employee,Graduate,3,560005,Positive
+22,Female,Single,Student,Post Graduate,4,560029,Positive
+23,Male,Single,Student,Post Graduate,3,560064,Positive
+22,Female,Single,Student,Graduate,3,560096,Negative 
+25,Male,Married,Employee,Graduate,2,560005,Positive
+30,Female,Married,Student,Graduate,5,560005,Positive
+24,Male,Single,Student,Post Graduate,3,560006,Negative 
+25,Male,Single,Employee,Post Graduate,3,560006,Positive
+23,Male,Single,Student,Post Graduate,3,560009,Positive
+24,Female,Single,Student,Post Graduate,4,560073,Positive
+32,Male,Married,Employee,Graduate,4,560038,Positive
+22,Male,Single,Student,Post Graduate,4,560020,Positive
+23,Male,Single,Student,Post Graduate,3,560009,Positive
+23,Female,Single,Student,Post Graduate,4,560024,Positive
+20,Male,Single,Student,Graduate,2,560007,Positive
+21,Male,Single,Student,Graduate,2,560007,Positive
+24,Female,Married,Employee,Graduate,5,560007,Positive
+23,Female,Single,Student,Post Graduate,4,560024,Positive
+25,Male,Single,Employee,Post Graduate,3,560010,Positive
+32,Female,Married,Student,Graduate,3,560010,Positive
+27,Male,Married,Employee,Post Graduate,5,560010,Negative 
+20,Female,Single,Student,Graduate,2,560011,Positive
+21,Male,Single,Student,Graduate,2,560011,Positive
+26,Male,Single,Employee,Post Graduate,3,560011,Negative 
+25,Male,Single,Employee,Graduate,4,560016,Positive
+26,Male,Single,Employee,Post Graduate,3,560012,Positive
+26,Female,Married,Employee,Graduate,3,560012,Positive
+27,Male,Single,Employee,Post Graduate,4,560013,Positive
+27,Female,Single,Student,Post Graduate,5,560013,Negative 
+24,Female,Single,Student,Post Graduate,5,560051,Positive
+25,Male,Married,Employee,Graduate,2,560015,Positive
+20,Male,Single,Student,Graduate,2,560015,Negative 
+22,Male,Single,Student,Post Graduate,1,560015,Positive
+26,Female,Married,Student,Post Graduate,3,560016,Positive
+27,Male,Prefer not to say,Employee,Post Graduate,1,560016,Positive
+25,Female,Single,Student,Post Graduate,3,560017,Positive
+24,Male,Single,Employee,Graduate,2,560017,Positive
+23,Female,Single,Employee,Graduate,6,560017,Positive
+22,Male,Single,Student,Graduate,2,560018,Positive
+26,Male,Married,Employee,Post Graduate,3,560018,Negative 
+26,Male,Single,Employee,Post Graduate,1,560018,Negative 
+25,Female,Married,Employee,Post Graduate,3,560018,Positive
+29,Female,Married,Employee,Graduate,3,560018,Positive
+23,Male,Single,Student,Graduate,3,560109,Negative 
+22,Female,Single,Employee,Graduate,4,560066,Positive
+22,Male,Single,Student,Graduate,2,560020,Positive
+32,Female,Married,Student,Graduate,5,560020,Positive
+28,Male,Married,Employee,Post Graduate,1,560021,Positive
+22,Male,Single,Student,Post Graduate,2,560009,Positive
+25,Male,Single,Employee,Graduate,2,560023,Positive
+26,Female,Married,Employee,Post Graduate,2,560023,Negative 
+31,Male,Married,Employee,Graduate,6,560024,Positive
+24,Male,Single,Student,Post Graduate,3,560024,Negative 
+24,Male,Single,Employee,Post Graduate,2,560025,Positive
+31,Female,Married,Employee,Post Graduate,5,560025,Positive
+26,Male,Single,Employee,Graduate,2,560029,Positive
+24,Female,Married,Employee,Graduate,2,560029,Positive
+22,Female,Single,Student,Graduate,3,560029,Positive
+19,Male,Single,Student,Graduate,6,560030,Positive
+25,Male,Married,Employee,Post Graduate,6,560030,Positive
+23,Female,Married,Student,Graduate,6,560030,Positive
+23,Female,Single,Student,Graduate,2,560032,Negative 
+23,Male,Single,Student,Post Graduate,2,560034,Positive
+24,Male,Single,Student,Post Graduate,5,560104,Positive
+22,Female,Single,Employee,Graduate,4,560076,Positive
+26,Male,Married,Employee,Graduate,4,560036,Positive
+25,Female,Single,Student,Post Graduate,3,560036,Positive
+20,Male,Single,Student,Graduate,2,560034,Positive
+29,Male,Married,Employee,Graduate,4,560034,Negative 
+23,Female,Single,Student,Graduate,1,560009,Positive
+25,Male,Single,Employee,Graduate,2,560038,Positive
+29,Female,Married,Employee,Graduate,4,560038,Negative 
+27,Male,Married,Employee,Graduate,6,560041,Negative 
+25,Male,Single,Employee,Graduate,3,560043,Positive
+21,Male,Single,Student,Graduate,2,560046,Negative 
+23,Male,Single,Student,Graduate,3,560049,Positive
+24,Female,Single,Employee,Post Graduate,4,560011,Positive
+32,Male,Married,Employee,Graduate,3,560008,Negative 
+28,Male,Married,Employee,Post Graduate,5,560045,Positive
+26,Male,Single,Employee,Graduate,2,560041,Negative 
+31,Female,Married,Student,Graduate,5,560055,Positive
+27,Female,Married,Employee,Graduate,3,560055,Positive
+21,Female,Single,Student,Post Graduate,1,560041,Positive
+23,Female,Single,Student,Graduate,2,560060,Positive
+26,Male,Married,Employee,Graduate,4,560060,Positive
+32,Male,Married,Employee,Graduate,5,560061,Positive
+25,Female,Married,Student,Post Graduate,2,560062,Positive
+28,Male,Single,Employee,Post Graduate,2,560070,Positive
+21,Female,Single,Student,Post Graduate,3,560070,Positive
+24,Male,Single,Student,Post Graduate,2,560075,Positive
+26,Female,Married,Employee,Graduate,5,560075,Negative 
+32,Male,Married,Employee,Graduate,3,560075,Positive
+29,Male,Single,Employee,Graduate,6,560076,Positive
+21,Male,Single,Student,Graduate,5,560038,Positive
+24,Female,Single,Employee,Post Graduate,3,560080,Negative 
+26,Male,Prefer not to say,Employee,Post Graduate,2,560080,Positive
+25,Male,Married,Employee,Post Graduate,3,560085,Positive
+29,Male,Single,Employee,Graduate,3,560092,Negative 
+22,Male,Single,Student,Graduate,3,560096,Positive
+24,Male,Single,Student,Graduate,2,560027,Positive
+27,Male,Married,Employee,Graduate,2,560076,Positive
+23,Female,Single,Student,Post Graduate,3,560095,Positive
+32,Male,Married,Employee,Post Graduate,6,560095,Positive
+22,Female,Single,Student,Graduate,2,560095,Positive
+28,Male,Married,Employee,Graduate,3,560095,Positive
+23,Female,Single,Student,Post Graduate,2,560096,Positive
+30,Male,Married,Employee,Graduate,1,560097,Negative 
+21,Male,Single,Student,Graduate,3,560092,Positive
+26,Female,Married,Employee,Graduate,6,560093,Negative 
+25,Male,Single,Employee,Graduate,3,560093,Positive
+31,Male,Prefer not to say,Employee,Graduate,1,560091,Negative 
+23,Female,Single,Employee,Post Graduate,2,560100,Positive
+29,Female,Married,Employee,Post Graduate,3,560100,Positive
+21,Male,Single,Student,Graduate,6,560100,Positive
+20,Male,Single,Student,Graduate,3,560103,Positive
+22,Male,Single,Employee,Graduate,2,560103,Positive
+30,Female,Married,Student,Graduate,6,560042,Positive
+27,Male,Married,Employee,Graduate,3,560079,Positive
+23,Male,Single,Student,Post Graduate,2,560009,Negative 
+30,Male,Married,Employee,Graduate,6,560059,Negative 
+23,Male,Single,Student,Post Graduate,3,560067,Positive
+28,Female,Married,Employee,Post Graduate,6,560067,Negative 
+30,Male,Married,Employee,Graduate,6,560067,Positive
+24,Female,Married,Employee,Post Graduate,2,560018,Negative 
+21,Male,Single,Student,Graduate,2,560018,Negative 
+23,Female,Prefer not to say,Employee,Graduate,3,560020,Negative 
+25,Male,Married,Employee,Post Graduate,4,560043,Positive
+24,Female,Single,Employee,Graduate,2,560068,Positive
+26,Male,Married,Employee,Graduate,3,560068,Negative 
+25,Female,Single,Employee,Post Graduate,2,560067,Positive
+22,Male,Single,Student,Graduate,3,560038,Positive
+26,Female,Single,Employee,Post Graduate,2,560038,Positive
+23,Male,Single,Employee,Graduate,2,560021,Positive
+21,Female,Single,Employee,Graduate,2,560021,Negative 
+25,Male,Married,Employee,Graduate,3,560027,Positive
+24,Female,Married,Employee,Post Graduate,2,560027,Positive
+22,Male,Married,Student,Graduate,2,560014,Positive
+23,Female,Single,Student,Post Graduate,4,560024,Positive
+24,Male,Married,Employee,Post Graduate,3,560056,Positive
+22,Female,Single,Student,Graduate,2,560056,Positive
+30,Male,Married,Employee,Graduate,5,560072,Negative 
+23,Female,Prefer not to say,Employee,Graduate,4,560036,Positive
+19,Male,Single,Student,Graduate,6,560036,Positive
+21,Female,Single,Student,Graduate,2,560080,Positive
+23,Male,Single,Student,Graduate,4,560080,Positive
+24,Female,Single,Employee,Graduate,3,560068,Positive
+26,Female,Married,Employee,Post Graduate,2,560042,Positive
+26,Female,Single,Student,Post Graduate,2,560023,Positive
+25,Female,Single,Student,Graduate,2,560023,Positive
+28,Female,Married,Employee,Graduate,5,560023,Negative 
+25,Female,Single,Student,Post Graduate,3,560014,Positive
+20,Female,Single,Student,Graduate,2,560014,Positive
+27,Female,Married,Employee,Graduate,6,560014,Positive
+25,Female,Married,Employee,Graduate,3,560015,Positive
+24,Female,Single,Student,Post Graduate,5,560015,Negative 
+25,Female,Married,Employee,Graduate,1,560009,Negative 
+25,Female,Prefer not to say,Employee,Post Graduate,3,560005,Negative 
+24,Female,Married,Student,Post Graduate,5,560015,Positive
+24,Male,Single,Student,Post Graduate,3,560015,Positive
+22,Male,Single,Employee,Graduate,1,560006,Positive
+28,Male,Single,Employee,Post Graduate,2,560006,Negative 
+25,Female,Single,Employee,Post Graduate,6,560012,Negative 
+22,Male,Single,Student,Post Graduate,3,560017,Negative 
+22,Female,Single,Student,Graduate,6,560019,Positive
+22,Male,Single,Student,Post Graduate,4,560010,Positive
+27,Female,Married,Employee,Post Graduate,2,560103,Positive
+22,Male,Single,Student,Graduate,3,560009,Positive
+24,Female,Single,Student,Post Graduate,3,560042,Positive
+23,Female,Single,Student,Post Graduate,2,560001,Positive
+23,Female,Single,Student,Post Graduate,4,560048,Positive
+22,Female,Single,Student,Post Graduate,5,560010,Positive
+23,Male,Single,Student,Post Graduate,2,560009,Negative 
+32,Male,Married,Employee,Graduate,5,560061,Positive
+25,Female,Married,Student,Post Graduate,2,560062,Positive
+28,Male,Single,Employee,Post Graduate,2,560070,Positive
+21,Female,Single,Student,Post Graduate,3,560070,Positive
+24,Male,Single,Student,Post Graduate,2,560075,Positive
+26,Female,Married,Employee,Graduate,5,560075,Negative 
+32,Male,Married,Employee,Graduate,3,560075,Positive
+29,Male,Single,Employee,Graduate,6,560076,Positive
+21,Male,Single,Student,Graduate,5,560038,Positive
+24,Female,Single,Employee,Post Graduate,3,560080,Negative 
+26,Male,Prefer not to say,Employee,Post Graduate,2,560080,Positive
+21,Male,Married,Employee,Post Graduate,3,560085,Positive
+29,Male,Single,Employee,Graduate,3,560092,Negative 
+22,Male,Single,Student,Graduate,3,560096,Positive
+24,Male,Single,Student,Graduate,2,560027,Positive
+27,Male,Married,Employee,Graduate,2,560076,Positive
+23,Female,Single,Student,Post Graduate,3,560095,Positive
+32,Male,Married,Employee,Post Graduate,6,560095,Positive
+22,Female,Single,Student,Graduate,2,560095,Positive
+22,Female,Single,Employee,Graduate,4,560076,Positive
+26,Male,Married,Employee,Graduate,4,560036,Positive
+25,Female,Single,Student,Post Graduate,3,560036,Positive
+20,Male,Single,Student,Graduate,2,560034,Positive
+29,Male,Married,Employee,Graduate,4,560034,Negative 
+23,Female,Single,Student,Graduate,1,560009,Positive
+25,Male,Single,Employee,Graduate,2,560038,Positive
+29,Female,Married,Employee,Graduate,4,560038,Negative 
+27,Male,Married,Employee,Graduate,6,560041,Positive
+25,Male,Single,Employee,Graduate,3,560043,Positive
+21,Male,Single,Student,Graduate,2,560046,Negative 
+23,Male,Single,Student,Graduate,3,560049,Positive
+24,Female,Single,Employee,Post Graduate,4,560011,Positive
+22,Male,Married,Employee,Graduate,3,560008,Negative 
+28,Male,Married,Employee,Post Graduate,5,560045,Positive
+26,Male,Single,Employee,Graduate,2,560041,Negative 
+22,Female,Single,Employee,Graduate,4,560076,Positive
+26,Male,Married,Employee,Graduate,4,560036,Positive
+25,Female,Single,Student,Post Graduate,3,560036,Positive
+20,Male,Single,Student,Graduate,2,560034,Positive
+29,Male,Married,Employee,Graduate,4,560034,Negative 
+23,Female,Single,Student,Graduate,1,560009,Positive
+25,Male,Single,Employee,Graduate,2,560038,Positive
+29,Female,Married,Employee,Graduate,4,560038,Positive
+27,Male,Married,Employee,Graduate,6,560041,Positive
+25,Male,Single,Employee,Graduate,3,560043,Positive
+21,Male,Single,Student,Graduate,2,560046,Positive
+24,Male,Single,Student,Post Graduate,2,560075,Positive
+26,Female,Married,Employee,Graduate,5,560075,Negative 
+32,Male,Married,Employee,Graduate,3,560075,Positive
+29,Male,Single,Employee,Graduate,6,560076,Positive
+21,Male,Single,Student,Graduate,5,560038,Positive
+24,Female,Single,Employee,Post Graduate,3,560080,Negative 
+26,Male,Prefer not to say,Employee,Post Graduate,2,560080,Positive
+31,Male,Married,Employee,Post Graduate,3,560085,Positive
+29,Male,Single,Employee,Graduate,3,560092,Negative 
+22,Male,Single,Student,Graduate,3,560096,Positive
+24,Male,Single,Student,Graduate,2,560027,Positive
+27,Male,Married,Employee,Graduate,2,560076,Positive
+23,Female,Single,Student,Post Graduate,3,560095,Positive
+30,Male,Married,Employee,Post Graduate,6,560095,Positive
+22,Female,Single,Student,Graduate,2,560095,Positive
+28,Male,Married,Employee,Graduate,3,560095,Positive
+23,Female,Single,Student,Post Graduate,2,560096,Positive
+30,Male,Married,Employee,Graduate,1,560097,Negative 
+21,Male,Single,Student,Graduate,3,560092,Negative 
+26,Female,Married,Employee,Graduate,6,560093,Negative 
+25,Male,Single,Employee,Graduate,3,560093,Positive
+31,Male,Prefer not to say,Employee,Graduate,1,560091,Negative 
+23,Female,Single,Employee,Post Graduate,2,560100,Positive
+22,Male,Single,Student,Post Graduate,4,560010,Positive
+27,Female,Married,Employee,Post Graduate,2,560103,Positive
+22,Male,Single,Student,Graduate,3,560009,Positive
+24,Female,Single,Student,Post Graduate,3,560042,Positive
+23,Female,Single,Student,Post Graduate,2,560001,Positive
+23,Female,Single,Student,Post Graduate,4,560048,Positive
+22,Female,Single,Student,Post Graduate,5,560010,Positive
+23,Male,Single,Student,Post Graduate,2,560009,Positive
+23,Male,Single,Student,Post Graduate,5,560078,Positive
